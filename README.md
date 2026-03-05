@@ -35,9 +35,9 @@ Análise exploratória de gastos pessoais para identificar padrões de consumo, 
 
 - SQL Avançado para Análise de Dados  
 - Melhores Práticas de Visualização  
-- Python para Analytics  
+- Storytelling com dados
 - Projetos End-to-End de Dados  
-
+- Google Power Query
 ---
 
 ## 🌎 Conecte-se comigo
