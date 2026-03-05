@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Rafael Leal
 
-🎯 Data Analytics | Power BI | SQL | Python  
-🛠 Safety Engineer | Professor | Data Enthusiast  
+🛠  Engineer | Professor | Data Enthusiast  
 
 I am a Safety Engineer and educator with more than 15 years of experience in industry and construction environments.  
 
@@ -16,7 +15,6 @@ My main interest is using **data to solve real-world problems**, especially in o
 ### Data Analysis
 - Python
 - Pandas
-- NumPy
 - SQL
 - Exploratory Data Analysis (EDA)
 
@@ -59,18 +57,7 @@ Project link
 - Python for Data Analytics  
 - Building end-to-end data projects  
 
----
 
-# 📈 Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Safety Analytics
-- Operational Analytics
-- ESG Data
-- Process Optimization
-
----
 
 # 🌎 Connect With Me
 
@@ -79,9 +66,7 @@ https://www.linkedin.com/in/rafael-leal-79805b84
 
 🐦 Twitter / X  
 https://twitter.com/SEU_USUARIO
-
 ---
-
 ⭐ Always learning, building projects, and exploring how data can improve decision-making.
 
 <!--
