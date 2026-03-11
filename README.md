@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Power_BI-F68C1E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /> <img src="https://img.shields.io/badge/Data_Storytelling-0078D4?style=for-the-badge&logo=chart&logoColor=white" alt="Data Storytelling" />
 
 ### Ferramentas
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" /> <img src="https://img.shields.io/badge/Jupyter- F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jupyter- F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 ### Metodologias
 <img src="https://img.shields.io/badge/Lean_Six_Sigma-FFD700?style=for-the-badge&logo=six-sigma&logoColor=black" alt="Lean Six Sigma" /> <img src="https://img.shields.io/badge/Continuous_Improvement-00B140?style=for-the-badge&logo=kaizen&logoColor=white" alt="Continuous Improvement" />
