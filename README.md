@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=itsrafaelleal&color=006bed)
+
 # 👋 Olá! Eu sou Rafael Leal
 
 🛠 **Engenheiro** | Professor | Entusiasta de Dados  
