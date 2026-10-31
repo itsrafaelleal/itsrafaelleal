@@ -4,9 +4,9 @@
 
 🔁 **Um cara gente boa, que gosta de aprender todo dia**
 
-*Engenheiro de Produção e Segurança do Trabalho | Bacharel em educação - pós graduado em docência* Professor | 15 anos de indústria, hoje trabalhando em Engenharia de Dados, Analytics Engineering e Análise de Dados
+*Engenheiro de Produção e Segurança do Trabalho | Bacharel em educação - pós graduado em docência* Professor | 20 anos de indústria, hoje trabalhando em Engenharia de Dados, Analytics Engineering e Análise de Dados
 
-Trabalho há 15 anos resolvendo problemas de processo, segurança e operação nas indústrias no contexto de saúde — construindo meus primeiros indicadores e pipelines no SESI/RS — decidi migrar para dados em tempo integral.
+Trabalho há 20 anos resolvendo problemas de processo, segurança e operação nas indústrias no contexto de saúde — construindo meus primeiros indicadores e pipelines no SESI/RS — decidi migrar para dados em tempo integral.
 
 ---
 
