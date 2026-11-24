@@ -16,7 +16,7 @@ Trabalho há 20 anos resolvendo problemas de processo, segurança e operação n
 
 Pipeline ponta a ponta na GCP com **7 fontes transacionais sujas** e **322 mil registros**: profiling e ingestão em **Python** para o **Google Cloud Storage** (com manifesto SHA-256 por lote) → camada **RAW** como *External Tables* no **BigQuery** → **Trusted** com tipagem forte e deduplicação determinística → **Refined** em **Star Schema** (3 dimensões, 2 fatos, 3 data marts). A linhagem é declarada em **26 modelos Dataform (`.sqlx`)**, e a integridade é auditada por **18 testes de qualidade** mais assertions em 15 modelos. Inclui orçamento top-down com meta diária ponderada por sazonalidade semanal, atribuição de mídia em janela de 14 dias e semáforo RAG de 4 níveis.
 
-**[▶ Dashboard publicado](https://rafael.meusisteminha.xyz/demos/ecommerce-bigquery/)** — abre no navegador, sem instalar nada e sem credenciais da Google.
+**[▶ Dashboard publicado](https://rafael.meusisteminha.xyz/demos/ecommerce-bigquery/)** — abre no navegador
 
 **Stack:** Python • GoogleSQL • Google Cloud Storage • BigQuery • Dataform • Streamlit • Apache ECharts • Star Schema
 
