@@ -6,11 +6,21 @@
 
 *Engenheiro de Produção e Segurança do Trabalho | Bacharel em educação - pós graduado em docência* Professor | 20 anos de indústria, hoje trabalhando em Engenharia de Dados, Analytics Engineering e Análise de Dados
 
-Trabalho há 20 anos resolvendo problemas de processo, segurança e operação nas indústrias no contexto de saúde —  — decidi migrar para dados em tempo integral.
+Trabalho há 20 anos resolvendo problemas de processo, segurança e operação na indústria e em serviços de saúde. Hoje aplico essa bagagem em engenharia de dados, em tempo integral.
 
 ---
 
 ## 📁 Projetos em destaque
+
+### E-commerce ELT na Google Cloud — Engenharia de Dados
+
+Pipeline ponta a ponta na GCP com **7 fontes transacionais sujas** e **322 mil registros**: profiling e ingestão em **Python** para o **Google Cloud Storage** (com manifesto SHA-256 por lote) → camada **RAW** como *External Tables* no **BigQuery** → **Trusted** com tipagem forte e deduplicação determinística → **Refined** em **Star Schema** (3 dimensões, 2 fatos, 3 data marts). A linhagem é declarada em **26 modelos Dataform (`.sqlx`)**, e a integridade é auditada por **18 testes de qualidade** mais assertions em 15 modelos. Inclui orçamento top-down com meta diária ponderada por sazonalidade semanal, atribuição de mídia em janela de 14 dias e semáforo RAG de 4 níveis.
+
+**[▶ Dashboard publicado](https://rafael.meusisteminha.xyz/demos/ecommerce-bigquery/)** — abre no navegador, sem instalar nada e sem credenciais da Google.
+
+**Stack:** Python • GoogleSQL • Google Cloud Storage • BigQuery • Dataform • Streamlit • Apache ECharts • Star Schema
+
+👉 [itsrafaelleal/ecommerce-elt-gcp-bigquery-dataform-analytics](https://github.com/itsrafaelleal/ecommerce-elt-gcp-bigquery-dataform-analytics)
 
 ###  Marítimo Data Pipeline — Engenharia de Dados
 Pipeline completo de operações portuárias: **Web Scraping (Selenium)** → limpeza/tipagem em **Python/pandas** (camada Silver, em Parquet) → **Star Schema** na camada Gold → **orquestração com Apache Airflow** em Docker → dashboard no Qlik. Inclui scripts idempotentes, validações explícitas de falha e documentação completa de arquitetura e catálogo de dados.
@@ -26,13 +36,6 @@ Pipeline **ELT com dbt sobre PostgreSQL** cruzando GA4, Google Ads e metadados d
 
 👉 [itsrafaelleal/dbt-abtest-marketing-analytics](https://github.com/itsrafaelleal/dbt-abtest-marketing-analytics)
 
-###  Análise de Gastos Pessoais — Análise de Dados
-Projeto fundamentos: planilhas de gastos pessoais tratadas em **Python**, organizadas em um **star schema no SQLite** com integridade referencial (PK/FK/UNIQUE), validadas e exploradas com **SQL** (testes de qualidade, detecção de outliers, análise de Pareto) e visualizadas em **Power BI**.
-
-**Stack:** Python • Pandas • SQLite • SQL • Power BI
-
-👉 [itsrafaelleal/analise_gastos_pessoais](https://github.com/itsrafaelleal/analise_gastos_pessoais)
-
 ---
 
 ## 📊 Tech Stack
@@ -41,22 +44,22 @@ Projeto fundamentos: planilhas de gastos pessoais tratadas em **Python**, organi
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/SQL-003B46?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 ### Dados e modelagem
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQLite-003B46?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="Parquet" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/Dataform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Dataform" /> <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="Parquet" /> <img src="https://img.shields.io/badge/SQLite-003B46?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 ### Orquestração e infraestrutura
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 
 ### Visualização de Dados
-<img src="https://img.shields.io/badge/Power_BI-F68C1E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" /> <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts" /> <img src="https://img.shields.io/badge/Power_BI-F68C1E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" /> <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik" />
 
 ### Ferramentas
 <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white" alt="uv" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-### Cloud & Big Data
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+### Cloud
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /> <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white" alt="Google Cloud Storage" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 
 ### Metodologias e background
-<img src="https://img.shields.io/badge/Lean_Six_Sigma_Green_Belt-FFD700?style=for-the-badge&logo=six-sigma&logoColor=black" alt="Lean Six Sigma" /> <img src="https://img.shields.io/badge/15_anos_de_indústria-00B140?style=for-the-badge&logo=kaizen&logoColor=white" alt="Indústria" />
+<img src="https://img.shields.io/badge/Lean_Six_Sigma_Green_Belt-FFD700?style=for-the-badge&logo=six-sigma&logoColor=black" alt="Lean Six Sigma" /> <img src="https://img.shields.io/badge/20_anos_de_indústria-00B140?style=for-the-badge&logo=kaizen&logoColor=white" alt="Indústria" />
 
 ---
 
@@ -71,6 +74,7 @@ Projeto fundamentos: planilhas de gastos pessoais tratadas em **Python**, organi
 ## 🚀 O que estou aprendendo agora
 
 - **Databricks** — lakehouse e processamento distribuído em escala, indo além do volume que Pandas/SQLite resolvem nos meus projetos atuais
+- **Apache Spark** — processamento distribuído, como base para o Databricks
 - **Bancos de dados não estruturados (NoSQL)** — modelagem orientada a documento/chave-valor para dados que não se encaixam bem em schema relacional
 - **Trino** — consulta distribuída via SQL sobre múltiplas fontes (data lakes, warehouses) sem precisar mover o dado
 - **RAG e agentes de IA** — arquiteturas de recuperação aumentada por geração e agentes autônomos aplicados a dados e analytics
