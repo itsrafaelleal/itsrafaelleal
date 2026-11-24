@@ -4,7 +4,7 @@
 
 🔁 **Um cara gente boa, que gosta de aprender todo dia**
 
-*Engenheiro de Produção e Segurança do Trabalho | Bacharel em educação - pós graduado em docência* Professor | 20 anos de indústria, hoje trabalhando em Engenharia de Dados, Analytics Engineering e Análise de Dados
+*Engenheiro de Produção | Bacharel em educação - pós graduado em docência* Professor | 20 anos de indústria, hoje trabalhando em Engenharia de Dados, Analytics Engineering e Análise de Dados
 
 Trabalho há 20 anos resolvendo problemas de processo, segurança e operação na indústria e em serviços de saúde. Hoje aplico essa bagagem em engenharia de dados, em tempo integral.
 
